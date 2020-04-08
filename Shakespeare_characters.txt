@@ -1,0 +1,1534 @@
+Speaker		Gender	#Lines	Play	TopVillain	Fools
+Bottom		Male	255	A Midsummer Night's Dream		fool
+Theseus		Male	235	A Midsummer Night's Dream		
+Helena		Female	230	A Midsummer Night's Dream		
+Oberon		Male	225	A Midsummer Night's Dream		
+Puck		Male	206	A Midsummer Night's Dream		fool
+Lysander		Male	179	A Midsummer Night's Dream		
+Hermia		Female	164	A Midsummer Night's Dream		
+Titania		Female	141	A Midsummer Night's Dream		
+Demetrius		Male	136	A Midsummer Night's Dream		
+Quince		Male	121	A Midsummer Night's Dream		
+Flute		Male	57	A Midsummer Night's Dream		
+Egeus		Male	41	A Midsummer Night's Dream		
+Hippolyta		Female	35	A Midsummer Night's Dream		
+Fairy		Male	28	A Midsummer Night's Dream		
+Philostrate		Male	24	A Midsummer Night's Dream		
+Snout		Male	22	A Midsummer Night's Dream		
+Chorus		Male	14	A Midsummer Night's Dream		
+Snug		Male	14	A Midsummer Night's Dream		
+Starveling		Male	11	A Midsummer Night's Dream		
+First Fairy		Male	8	A Midsummer Night's Dream		
+Mustardseed		Male	5	A Midsummer Night's Dream		
+Peaseblossom		Male	4	A Midsummer Night's Dream		
+Cobweb		Male	4	A Midsummer Night's Dream		
+Second Fairy		Male	2	A Midsummer Night's Dream		
+Moth		Male	2	A Midsummer Night's Dream		
+All Fairies		Male	1	A Midsummer Night's Dream		
+All Mechanicals		Male	1	A Midsummer Night's Dream		
+Helena		Female	478	All's Well That Ends Well		
+King		Male	380	All's Well That Ends Well		
+Parolles		Male	373	All's Well That Ends Well		
+Countess		Female	291	All's Well That Ends Well		
+Bertram		Male	277	All's Well That Ends Well		
+Lafew		Male	276	All's Well That Ends Well		
+Clown		Male	195	All's Well That Ends Well		fool
+First Lord		Male	173	All's Well That Ends Well		
+Diana		Female	138	All's Well That Ends Well		
+Second Lord		Male	119	All's Well That Ends Well		
+First Soldier		Male	82	All's Well That Ends Well		
+Widow		Female	64	All's Well That Ends Well		
+Steward		Male	42	All's Well That Ends Well		
+Gentleman		Male	21	All's Well That Ends Well		
+Mariana		Female	20	All's Well That Ends Well		
+Duke		Male	19	All's Well That Ends Well		
+Epilogue		Male	6	All's Well That Ends Well		
+Messenger		Male	4	All's Well That Ends Well		
+Second Soldier		Male	2	All's Well That Ends Well		
+Page		Male	1	All's Well That Ends Well		
+Both Lords		Male	1	All's Well That Ends Well		
+All Soldiers		Male	1	All's Well That Ends Well		
+All The Lords		Male	1	All's Well That Ends Well		
+Attendant		Male	1	All's Well That Ends Well		
+Fourth Lord		Male	1	All's Well That Ends Well		
+Widow And Mariana		Female	1	All's Well That Ends Well		
+Antony		Male	839	Antony and Cleopatra		
+Cleopatra		Female	678	Antony and Cleopatra		
+Caesar		Male	419	Antony and Cleopatra		
+Enobarbus		Male	346	Antony and Cleopatra		
+Pompey		Male	136	Antony and Cleopatra		
+Charmian		Female	109	Antony and Cleopatra		
+Lepidus		Male	67	Antony and Cleopatra		
+Menas		Male	62	Antony and Cleopatra		
+Agrippa		Male	60	Antony and Cleopatra		
+Eros		Male	47	Antony and Cleopatra		
+Dolabella		Male	47	Antony and Cleopatra		
+Messenger To Cleopatra		Male	42	Antony and Cleopatra		
+Scarus		Male	40	Antony and Cleopatra		
+Octavia		Female	36	Antony and Cleopatra		
+Maecenas		Male	36	Antony and Cleopatra		
+Alexas		Male	32	Antony and Cleopatra		
+Proculeius		Male	32	Antony and Cleopatra		
+Soothsayer		Male	31	Antony and Cleopatra		
+Thidias		Male	31	Antony and Cleopatra		
+Ventidius		Male	30	Antony and Cleopatra		
+Soldier		Male	29	Antony and Cleopatra		
+Clown		Male	27	Antony and Cleopatra		
+Iras		Female	26	Antony and Cleopatra		
+Canidius		Male	25	Antony and Cleopatra		
+Decretas		Male	21	Antony and Cleopatra		
+Messenger		Male	20	Antony and Cleopatra		
+Mardian		Male	19	Antony and Cleopatra		
+Diomedes		Male	19	Antony and Cleopatra		
+Messenger To Caesar		Male	18	Antony and Cleopatra		
+Philo		Male	17	Antony and Cleopatra		
+Ambassador		Male	16	Antony and Cleopatra		
+Sentry		Male	14	Antony and Cleopatra		
+First Guard Of Caesar'S		Male	14	Antony and Cleopatra		
+First Soldier		Male	14	Antony and Cleopatra		
+Second Soldier		Male	13	Antony and Cleopatra		
+Silius		Male	11	Antony and Cleopatra		
+Soldier Of Caesar'S		Male	9	Antony and Cleopatra		
+First Servant		Male	9	Antony and Cleopatra		
+Second Servant		Male	7	Antony and Cleopatra		
+Second Watch		Male	6	Antony and Cleopatra		
+First Watch		Male	6	Antony and Cleopatra		
+Menecrates		Male	6	Antony and Cleopatra		
+Boy		Male	6	Antony and Cleopatra		
+Egyptian		Male	6	Antony and Cleopatra		
+Demetrius		Male	5	Antony and Cleopatra		
+First Guard		Male	5	Antony and Cleopatra		
+Seleucus		Male	5	Antony and Cleopatra		
+Second Messenger		Male	4	Antony and Cleopatra		
+Guardsman		Male	4	Antony and Cleopatra		
+Third Soldier		Male	4	Antony and Cleopatra		
+Varrius		Male	4	Antony and Cleopatra		
+All		Male	4	Antony and Cleopatra		
+All The Guards		Male	3	Antony and Cleopatra		
+Servant		Male	3	Antony and Cleopatra		
+Second Guard		Male	2	Antony and Cleopatra		
+Second Guard Of Caesar'S		Male	2	Antony and Cleopatra		
+Gallus		Male	2	Antony and Cleopatra		
+All Soldiers		Male	2	Antony and Cleopatra		
+All Attendants		Male	1	Antony and Cleopatra		
+All Caesar'S Attendants		Male	1	Antony and Cleopatra		
+All Lords		Male	1	Antony and Cleopatra		
+Third Guard		Male	1	Antony and Cleopatra		
+Taurus		Male	1	Antony and Cleopatra		
+Fourth Soldier		Male	1	Antony and Cleopatra		
+Maecenas And Agrippa		Male	1	Antony and Cleopatra		
+Second Attendant		Male	1	Antony and Cleopatra		
+All The Servants		Male	1	Antony and Cleopatra		
+All The Soldiers		Male	1	Antony and Cleopatra		
+All The Triumvirs		Male	1	Antony and Cleopatra		
+First Attendant		Male	1	Antony and Cleopatra		
+Captain		Male	1	Antony and Cleopatra		
+Rosalind		Female	685	As You Like It		
+Orlando		Male	301	As You Like It		
+Touchstone		Male	283	As You Like It		fool
+Celia		Female	282	As You Like It		
+Jaques		Male	221	As You Like It		
+Oliver		Male	148	As You Like It		
+Duke		Male	109	As You Like It		
+Phebe		Female	86	As You Like It		
+Silvius		Male	75	As You Like It		
+Corin		Male	71	As You Like It		
+Duke Frederick		Male	68	As You Like It		
+Adam		Male	65	As You Like It		
+Le Beau		Male	48	As You Like It		
+Amiens		Male	42	As You Like It		
+First Lord		Male	42	As You Like It		
+Charles		Male	40	As You Like It		
+Hymen		Male	31	As You Like It		
+Pages		Male	25	As You Like It		
+Audrey		Female	20	As You Like It		
+Jaques De Boys		Male	17	As You Like It		
+William		Male	11	As You Like It		
+Lords		Male	11	As You Like It		
+Second Lord To Frederick		Male	9	As You Like It		
+All Together		Male	8	As You Like It		
+First Page		Male	6	As You Like It		
+Sir Oliver		Male	5	As You Like It		
+First Lord To Frederick		Male	4	As You Like It		
+Dennis		Male	3	As You Like It		
+Second Page		Male	3	As You Like It		
+Lord		Male	2	As You Like It		
+Second Lord		Male	2	As You Like It		
+Coriolanus		Male	675	Coriolanus		
+Menenius		Male	578	Coriolanus		
+Volumnia		Female	311	Coriolanus		
+Sicinius		Male	302	Coriolanus		
+Cominius		Male	278	Coriolanus		
+Aufidius		Male	274	Coriolanus		
+Brutus		Male	246	Coriolanus		
+Martius		Male	212	Coriolanus		
+First Citizen		Male	89	Coriolanus		
+Lartius		Male	60	Coriolanus		
+Third Citizen		Male	53	Coriolanus		
+Third Servingman		Male	52	Coriolanus		
+First Senator		Male	42	Coriolanus		
+Valeria		Female	40	Coriolanus		
+Messenger		Male	38	Coriolanus		
+Second Servingman		Male	37	Coriolanus		
+Virgilia		Female	36	Coriolanus		
+First Servingman		Male	36	Coriolanus		
+First Watch		Male	31	Coriolanus		
+Second Citizen		Male	30	Coriolanus		
+Roman		Male	27	Coriolanus		
+Second Officer		Male	20	Coriolanus		
+Volsce		Male	20	Coriolanus		
+Second Messenger		Male	19	Coriolanus		
+Plebeians		Male	16	Coriolanus		
+Aedile		Male	15	Coriolanus		
+All Citizens		Male	14	Coriolanus		
+First Volscian Senator		Male	14	Coriolanus		
+First Officer		Male	14	Coriolanus		
+First Lord		Male	13	Coriolanus		
+Second Watch		Male	12	Coriolanus		
+Third Conspirator		Male	12	Coriolanus		
+Lieutenant To Aufidius		Male	11	Coriolanus		
+Second Lord		Male	9	Coriolanus		
+First Conspirator		Male	8	Coriolanus		
+First Soldier		Male	7	Coriolanus		
+Fourth Citizen		Male	7	Coriolanus		
+Second Conspirator		Male	7	Coriolanus		
+Second Volscian Senator		Male	7	Coriolanus		
+Herald		Male	6	Coriolanus		
+Both Tribunes		Male	5	Coriolanus		
+Citizen		Male	4	Coriolanus		
+Both Servingmen		Male	4	Coriolanus		
+First Volscian Soldier		Male	4	Coriolanus		
+Citizens		Male	3	Coriolanus		
+All The People		Male	3	Coriolanus		
+Seventh Citizen		Male	3	Coriolanus		
+Third Lord		Male	2	Coriolanus		
+Second Senator		Male	2	Coriolanus		
+Sixth Citizen		Male	2	Coriolanus		
+All Senators		Male	2	Coriolanus		
+All Soldiers		Male	2	Coriolanus		
+All Conspirators		Male	2	Coriolanus		
+All Lords		Male	2	Coriolanus		
+Boy		Male	2	Coriolanus		
+Fifth Citizen		Male	2	Coriolanus		
+Gentlewoman		Female	2	Coriolanus		
+Patrician		Male	2	Coriolanus		
+Lords		Male	1	Coriolanus		
+Patricians		Male	1	Coriolanus		
+Noble		Male	1	Coriolanus		
+Officer		Male	1	Coriolanus		
+Lieutenant		Male	1	Coriolanus		
+First Roman		Male	1	Coriolanus		
+Both Citizens		Male	1	Coriolanus		
+All Roman Soldiers		Male	1	Coriolanus		
+Aediles		Male	1	Coriolanus		
+Senators		Male	1	Coriolanus		
+Second Soldier		Male	1	Coriolanus		
+Second Roman		Male	1	Coriolanus		
+Third Roman		Male	1	Coriolanus		
+Virgilia And Valeria		Female	1	Coriolanus		
+Tribunes		Male	1	Coriolanus		
+Innogen		Female	594	Cymbeline		
+Posthumus		Male	442	Cymbeline		
+Iachimo		Male	430	Cymbeline		
+Belarius		Male	336	Cymbeline		
+Cymbeline		Male	290	Cymbeline	yes	
+Cloten		Male	260	Cymbeline		
+Pisanio		Male	217	Cymbeline		
+Queen		Female	168	Cymbeline		
+Guiderius		Male	164	Cymbeline		
+Arviragus		Male	138	Cymbeline		
+Lucius		Male	104	Cymbeline		
+Cornelius		Male	73	Cymbeline		
+First Gentleman		Male	66	Cymbeline		
+Second Lord		Male	46	Cymbeline		
+First Gaoler		Male	45	Cymbeline		
+Soothsayer		Male	43	Cymbeline		
+Philario		Male	43	Cymbeline		
+First Lord		Male	42	Cymbeline		
+Sicilius		Male	40	Cymbeline		
+Frenchman		Male	22	Cymbeline		
+Jupiter		Male	21	Cymbeline		
+First Senator		Male	15	Cymbeline		
+Second Gentleman		Male	13	Cymbeline		
+Queen'S Lady		Female	13	Cymbeline		
+Mother		Female	12	Cymbeline		
+First Brother		Male	12	Cymbeline		
+Roman Captain		Male	11	Cymbeline		
+Singer		Male	7	Cymbeline		
+Lord		Male	7	Cymbeline		
+Second Brother		Male	6	Cymbeline		
+Second Captain		Male	6	Cymbeline		
+Messenger		Male	4	Cymbeline		
+First Captain		Male	4	Cymbeline		
+Both		Male	4	Cymbeline		
+Attendant		Male	3	Cymbeline		
+First Tribune		Male	3	Cymbeline		
+Brothers		Male	2	Cymbeline		
+Cloten And Lords		Male	1	Cymbeline		fool
+All		Male	1	Cymbeline		
+First Lady		Female	1	Cymbeline		
+Ladies		Female	1	Cymbeline		
+Guiderius And Arviragus		Male	1	Cymbeline		
+Second Gaoler		Male	1	Cymbeline		
+Second Senator		Male	1	Cymbeline		
+Hamlet		Male	1506	Hamlet		
+King		Male	552	Hamlet		
+Polonius		Male	357	Hamlet		
+Horatio		Male	294	Hamlet		
+Laertes		Male	210	Hamlet		
+Ophelia		Female	173	Hamlet		
+Queen		Female	157	Hamlet		
+Rosencrantz		Male	100	Hamlet		
+First Player		Male	96	Hamlet		
+Ghost		Male	95	Hamlet		
+First Clown		Male	94	Hamlet		
+Marcellus		Male	61	Hamlet		
+Guildenstern		Male	53	Hamlet		
+Osrick		Male	49	Hamlet		
+Barnardo		Male	34	Hamlet		
+Second Player		Male	31	Hamlet		
+Fortinbras		Male	27	Hamlet		
+Voltemand		Male	21	Hamlet		
+Second Clown		Male	18	Hamlet		
+Messenger		Male	16	Hamlet		
+Reynaldo		Male	15	Hamlet		
+Gentleman		Male	14	Hamlet		
+Priest		Male	13	Hamlet		
+Captain		Male	12	Hamlet		
+Francisco		Male	10	Hamlet		
+Lord		Male	7	Hamlet		
+Ambassador		Male	6	Hamlet		
+Third Player		Male	6	Hamlet		
+Sailor		Male	5	Hamlet		
+All		Male	4	Hamlet		
+Fourth Player		Male	3	Hamlet		
+All Lords		Male	2	Hamlet		
+Rosencrantz And Guildenstern		Male	2	Hamlet		
+Horatio And Marcellus		Male	2	Hamlet		
+His Followers		Male	2	Hamlet		
+Gentlemen		Male	1	Hamlet		
+Marcellus And Barnardo		Male	1	Hamlet		
+Voices		Male	1	Hamlet		
+Voltemand And Cornelius		Male	1	Hamlet		
+Falstaff		Male	602	Henry IV Part 1		fool
+Prince Hal		Male	572	Henry IV Part 1		
+Hotspur		Male	559	Henry IV Part 1		
+King Henry		Male	339	Henry IV Part 1		
+Worcester		Male	189	Henry IV Part 1		
+Poins		Male	79	Henry IV Part 1		
+Glendower		Male	77	Henry IV Part 1		
+Vernon		Male	66	Henry IV Part 1		
+Mortimer		Male	60	Henry IV Part 1		
+Lady Percy		Female	57	Henry IV Part 1		
+Hostess		Female	49	Henry IV Part 1		
+Gadshill		Male	45	Henry IV Part 1		
+Douglas		Male	45	Henry IV Part 1		
+Westmorland		Male	42	Henry IV Part 1		
+Blunt		Male	41	Henry IV Part 1		
+Archbishop		Male	34	Henry IV Part 1		
+Bardolph		Male	29	Henry IV Part 1		
+Northumberland		Male	26	Henry IV Part 1		
+First Carrier		Male	23	Henry IV Part 1		
+Chamberlain		Male	19	Henry IV Part 1		
+Second Carrier		Male	18	Henry IV Part 1		
+Francis		Male	16	Henry IV Part 1		
+Peto		Male	15	Henry IV Part 1		
+Sheriff		Male	8	Henry IV Part 1		
+Sir Michael		Male	8	Henry IV Part 1		
+Lancaster		Male	8	Henry IV Part 1		
+Messenger		Male	6	Henry IV Part 1		
+First Traveller		Male	5	Henry IV Part 1		
+Vintner		Male	4	Henry IV Part 1		
+Servant		Male	3	Henry IV Part 1		
+Second Messenger		Male	1	Henry IV Part 1		
+Second Traveller		Male	1	Henry IV Part 1		
+Ostler		Male	1	Henry IV Part 1		
+First Messenger		Male	1	Henry IV Part 1		
+Thieves		Male	1	Henry IV Part 1		
+Falstaff		Male	641	Henry IV Part 2		fool
+Prince Henry		Male	313	Henry IV Part 2		
+King Henry Iv		Male	291	Henry IV Part 2		
+Shallow		Male	195	Henry IV Part 2		
+Hostess		Female	171	Henry IV Part 2		
+Lord Chief Justice		Male	160	Henry IV Part 2		
+Archbishop		Male	148	Henry IV Part 2		
+Westmorland		Male	109	Henry IV Part 2		
+Prince John		Male	108	Henry IV Part 2		
+Northumberland		Male	106	Henry IV Part 2		
+Bardolph		Male	87	Henry IV Part 2		
+Pistol		Male	80	Henry IV Part 2		
+Morton		Male	79	Henry IV Part 2		
+Doll		Female	78	Henry IV Part 2		
+Warwick		Male	77	Henry IV Part 2		
+Poins		Male	60	Henry IV Part 2		
+Hastings		Male	57	Henry IV Part 2		
+Mowbray		Male	56	Henry IV Part 2		
+Bardolph		Male	47	Henry IV Part 2		
+Lady Percy		Female	46	Henry IV Part 2		
+Silence		Male	45	Henry IV Part 2		
+Rumour		Male	40	Henry IV Part 2		
+Davy		Male	33	Henry IV Part 2		
+Epilogue		Male	32	Henry IV Part 2		
+Page		Male	31	Henry IV Part 2		
+Clarence		Male	21	Henry IV Part 2		
+Travers		Male	15	Henry IV Part 2		
+Gloucester		Male	15	Henry IV Part 2		
+Bullcalf		Male	13	Henry IV Part 2		
+Mouldy		Male	12	Henry IV Part 2		
+Servant		Male	12	Henry IV Part 2		
+Drawer		Male	11	Henry IV Part 2		
+Feeble		Male	11	Henry IV Part 2		
+First Beadle		Male	10	Henry IV Part 2		
+Colevile		Male	9	Henry IV Part 2		
+Fang		Male	8	Henry IV Part 2		
+Francis		Male	8	Henry IV Part 2		
+Gower		Male	8	Henry IV Part 2		
+Harcourt		Male	8	Henry IV Part 2		
+Peto		Male	6	Henry IV Part 2		
+Shadow		Male	5	Henry IV Part 2		
+Lady Northumberland		Female	5	Henry IV Part 2		
+Messenger		Male	4	Henry IV Part 2		
+Porter		Male	4	Henry IV Part 2		
+Will		Male	4	Henry IV Part 2		
+Snare		Male	3	Henry IV Part 2		
+Third Groom		Male	2	Henry IV Part 2		
+Wart		Male	2	Henry IV Part 2		
+Second Groom		Male	1	Henry IV Part 2		
+Princes		Male	1	Henry IV Part 2		
+Gloucester And Clarence		Male	1	Henry IV Part 2		
+First Groom		Male	1	Henry IV Part 2		
+King Henry		Male	1031	Henry V		
+Fluellen		Male	278	Henry V		
+Canterbury		Male	224	Henry V		
+Chorus		Male	223	Henry V		
+Pistol		Male	162	Henry V		
+Exeter		Male	129	Henry V		
+Constable		Male	123	Henry V		
+Dauphin		Male	115	Henry V		
+French King		Male	94	Henry V		
+Williams		Male	70	Henry V		
+Boy		Male	69	Henry V		
+Burgundy		Male	67	Henry V		
+Gower		Male	64	Henry V		
+Katherine		Female	61	Henry V		
+Montjoy		Male	52	Henry V		
+Orleans		Male	45	Henry V		
+Nym		Male	44	Henry V		
+Hostess		Female	42	Henry V		
+Bardolph		Male	32	Henry V		
+Alice		Female	28	Henry V		
+Ely		Male	27	Henry V		
+Westmorland		Male	27	Henry V		
+Queen Isabel		Female	24	Henry V		
+Macmorris		Male	19	Henry V		
+French Soldier		Male	18	Henry V		
+Grandpr?		Male	18	Henry V		
+Bates		Male	18	Henry V		
+Ambassador		Male	17	Henry V		
+Cambridge		Male	15	Henry V		
+Scroop		Male	12	Henry V		
+Grey		Male	12	Henry V		
+Jamy		Male	11	Henry V		
+Britaine		Male	9	Henry V		
+Bourbon		Male	9	Henry V		
+Rambures		Male	9	Henry V		
+Salisbury		Male	9	Henry V		
+Erpingham		Male	7	Henry V		
+Bedford		Male	7	Henry V		
+Governor		Male	7	Henry V		
+Messenger		Male	6	Henry V		
+Gloucester		Male	5	Henry V		
+Court		Male	2	Henry V		
+York		Male	2	Henry V		
+Warwick		Male	1	Henry V		
+All		Male	1	Henry V		
+Grey And Scroop		Male	1	Henry V		
+Herald		Male	1	Henry V		
+Lords		Male	1	Henry V		
+Talbot		Male	406	Henry VI Part 1		
+Pucelle		Female	254	Henry VI Part 1		
+Richard		Male	184	Henry VI Part 1		
+Gloucester		Male	183	Henry VI Part 1		
+King		Male	179	Henry VI Part 1		
+Suffolk		Male	174	Henry VI Part 1		
+Charles		Male	135	Henry VI Part 1		
+Winchester		Male	96	Henry VI Part 1		
+Mortimer		Male	88	Henry VI Part 1		
+Lucy		Male	77	Henry VI Part 1		
+Bedford		Male	76	Henry VI Part 1		
+Warwick		Male	72	Henry VI Part 1		
+Somerset		Male	64	Henry VI Part 1		
+Reignier		Male	59	Henry VI Part 1		
+Exeter		Male	59	Henry VI Part 1		
+Alen?on		Male	49	Henry VI Part 1		
+John		Male	47	Henry VI Part 1		
+Countess		Female	45	Henry VI Part 1		
+Third Messenger		Male	45	Henry VI Part 1		
+Burgundy		Male	43	Henry VI Part 1		
+Margaret		Female	33	Henry VI Part 1		
+Vernon		Male	29	Henry VI Part 1		
+Bastard		Male	29	Henry VI Part 1		
+General		Male	27	Henry VI Part 1		
+Basset		Male	25	Henry VI Part 1		
+Messenger		Male	24	Henry VI Part 1		
+Shepherd		Male	24	Henry VI Part 1		
+Mayor		Male	21	Henry VI Part 1		
+First Messenger		Male	18	Henry VI Part 1		
+Master Gunner		Male	18	Henry VI Part 1		
+Salisbury		Male	15	Henry VI Part 1		
+Third Servingman		Male	10	Henry VI Part 1		
+Falstaff		Male	8	Henry VI Part 1		
+First Servingman		Male	7	Henry VI Part 1		
+Second Messenger		Male	7	Henry VI Part 1		
+Officer		Male	6	Henry VI Part 1		
+Captain		Male	6	Henry VI Part 1		
+Scout		Male	5	Henry VI Part 1		
+Woodville		Male	5	Henry VI Part 1		
+Soldier		Male	4	Henry VI Part 1		
+Sentinel		Male	4	Henry VI Part 1		
+Sergeant		Male	4	Henry VI Part 1		
+Lawyer		Male	4	Henry VI Part 1		
+Gaoler		Male	4	Henry VI Part 1		
+Boy		Male	4	Henry VI Part 1		
+First Soldier		Male	3	Henry VI Part 1		
+First Warder		Male	3	Henry VI Part 1		
+Second Servingman		Male	2	Henry VI Part 1		
+Servingmen		Male	2	Henry VI Part 1		
+Watch		Male	2	Henry VI Part 1		
+Gargrave		Male	2	Henry VI Part 1		
+All		Male	1	Henry VI Part 1		
+Glansdale		Male	1	Henry VI Part 1		
+First Sentinel		Male	1	Henry VI Part 1		
+Second Warder		Male	1	Henry VI Part 1		
+Servant		Male	1	Henry VI Part 1		
+Legate		Male	1	Henry VI Part 1		
+Porter		Male	1	Henry VI Part 1		
+York		Male	379	Henry VI Part 2		
+Queen		Female	316	Henry VI Part 2		
+King		Male	314	Henry VI Part 2		
+Gloucester		Male	303	Henry VI Part 2		
+Suffolk		Male	298	Henry VI Part 2		
+Cade		Male	238	Henry VI Part 2		
+Warwick		Male	131	Henry VI Part 2		
+Duchess		Female	119	Henry VI Part 2		
+Cardinal		Male	103	Henry VI Part 2		
+Salisbury		Male	94	Henry VI Part 2		
+Buckingham		Male	74	Henry VI Part 2		
+Lieutenant		Male	65	Henry VI Part 2		
+Clifford		Male	56	Henry VI Part 2		
+Iden		Male	51	Henry VI Part 2		
+Say		Male	48	Henry VI Part 2		
+Young Clifford		Male	46	Henry VI Part 2		
+Dick		Male	36	Henry VI Part 2		
+Hume		Male	31	Henry VI Part 2		
+Peter		Male	25	Henry VI Part 2		
+Simpcox		Male	25	Henry VI Part 2		
+Somerset		Male	25	Henry VI Part 2		
+Richard		Male	24	Henry VI Part 2		
+Bolingbroke		Male	21	Henry VI Part 2		
+Horner		Male	19	Henry VI Part 2		
+Holland		Male	18	Henry VI Part 2		
+Whitmore		Male	18	Henry VI Part 2		
+Bevis		Male	17	Henry VI Part 2		
+Stafford		Male	16	Henry VI Part 2		
+Smith		Male	16	Henry VI Part 2		
+Messenger		Male	15	Henry VI Part 2		
+All		Male	13	Henry VI Part 2		
+Vaux		Male	11	Henry VI Part 2		
+First Messenger		Male	11	Henry VI Part 2		
+Spirit		Male	9	Henry VI Part 2		
+First Petitioner		Male	8	Henry VI Part 2		
+Scales		Male	8	Henry VI Part 2		
+Wife		Female	8	Henry VI Part 2		
+Stanley		Male	7	Henry VI Part 2		
+Brother		Male	7	Henry VI Part 2		
+First Gentleman		Male	7	Henry VI Part 2		
+Post		Male	6	Henry VI Part 2		
+Second Petitioner		Male	6	Henry VI Part 2		
+Second Messenger		Male	5	Henry VI Part 2		
+First Murderer		Male	5	Henry VI Part 2		
+First Citizen		Male	4	Henry VI Part 2		
+Michael		Male	4	Henry VI Part 2		
+Jourdain		Female	4	Henry VI Part 2		
+Man		Male	4	Henry VI Part 2		
+Sheriff		Male	4	Henry VI Part 2		
+Clerk		Male	3	Henry VI Part 2		
+First Neighbour		Male	3	Henry VI Part 2		
+Commons		Male	2	Henry VI Part 2		
+First Prentice		Male	2	Henry VI Part 2		
+Herald		Male	2	Henry VI Part 2		
+Mayor		Male	2	Henry VI Part 2		
+Beadle		Male	2	Henry VI Part 2		
+Second Murderer		Male	2	Henry VI Part 2		
+Second Neighbour		Male	2	Henry VI Part 2		
+Third Neighbour		Male	2	Henry VI Part 2		
+Second Prentice		Male	2	Henry VI Part 2		
+Servant		Male	2	Henry VI Part 2		
+Soldier		Male	1	Henry VI Part 2		
+Warwick And Salisbury		Male	1	Henry VI Part 2		
+Second Gentleman		Male	1	Henry VI Part 2		
+All Petitioners		Male	1	Henry VI Part 2		
+Master		Male	1	Henry VI Part 2		
+Mate		Male	1	Henry VI Part 2		
+Edward		Male	1	Henry VI Part 2		
+Warwick		Male	435	Henry VI Part 3		
+Edward		Male	428	Henry VI Part 3		
+Richard		Male	390	Henry VI Part 3		
+King		Male	363	Henry VI Part 3		
+Queen		Female	279	Henry VI Part 3		
+York		Male	173	Henry VI Part 3		
+Clifford		Male	140	Henry VI Part 3		
+George		Male	105	Henry VI Part 3		
+Lady Grey		Female	73	Henry VI Part 3		
+Lewis		Male	67	Henry VI Part 3		
+Prince		Male	46	Henry VI Part 3		
+Messenger		Male	36	Henry VI Part 3		
+Oxford		Male	35	Henry VI Part 3		
+Somerset		Male	33	Henry VI Part 3		
+Northumberland		Male	30	Henry VI Part 3		
+Post		Male	29	Henry VI Part 3		
+Father		Male	27	Henry VI Part 3		
+Rutland		Male	24	Henry VI Part 3		
+Son		Male	22	Henry VI Part 3		
+Hastings		Male	20	Henry VI Part 3		
+First Keeper		Male	17	Henry VI Part 3		
+Exeter		Male	17	Henry VI Part 3		
+Montague		Male	15	Henry VI Part 3		
+Montgomery		Male	14	Henry VI Part 3		
+Second Keeper		Male	14	Henry VI Part 3		
+Westmorland		Male	11	Henry VI Part 3		
+Third Watchman		Male	9	Henry VI Part 3		
+Bona		Female	9	Henry VI Part 3		
+First Watchman		Male	8	Henry VI Part 3		
+Second Watchman		Male	7	Henry VI Part 3		
+Rivers		Male	7	Henry VI Part 3		
+Somerville		Male	5	Henry VI Part 3		
+Mayor		Male	5	Henry VI Part 3		
+Norfolk		Male	3	Henry VI Part 3		
+Lieutenant		Male	3	Henry VI Part 3		
+Tutor		Male	3	Henry VI Part 3		
+Soldier		Male	2	Henry VI Part 3		
+Huntsman		Male	2	Henry VI Part 3		
+Nobleman		Male	2	Henry VI Part 3		
+Sir John		Male	1	Henry VI Part 3		
+Second Messenger		Male	1	Henry VI Part 3		
+All		Male	1	Henry VI Part 3		
+First Messenger		Male	1	Henry VI Part 3		
+King Henry		Male	459	Henry VIII		
+Wolsey		Male	437	Henry VIII		
+Queen Katherine		Female	261	Henry VIII		
+Norfolk		Male	211	Henry VIII		
+Buckingham		Male	192	Henry VIII		
+Lord Chamberlain		Male	150	Henry VIII		
+Cranmer		Male	135	Henry VIII		
+Katherine		Female	115	Henry VIII		
+First Gentleman		Male	107	Henry VIII		
+Suffolk		Male	93	Henry VIII		
+Gardiner		Male	91	Henry VIII		
+Second Gentleman		Male	87	Henry VIII		
+Surrey		Male	81	Henry VIII		
+Old Lady		Female	68	Henry VIII		
+Lovell		Male	68	Henry VIII		
+Surveyor		Male	61	Henry VIII		
+Griffith		Male	59	Henry VIII		
+Anne		Female	58	Henry VIII		
+Third Gentleman		Male	57	Henry VIII		
+Campeius		Male	53	Henry VIII		
+Cromwell		Male	49	Henry VIII		
+Sands		Male	48	Henry VIII		
+Speaker		Male	46	Henry VIII		
+Man		Male	38	Henry VIII		
+Porter		Male	34	Henry VIII		
+Lord Chancellor		Male	32	Henry VIII		
+Abergavenny		Male	18	Henry VIII		
+Brandon		Male	14	Henry VIII		
+Gentlewoman		Female	12	Henry VIII		
+Capuchius		Male	11	Henry VIII		
+Guilford		Male	10	Henry VIII		
+Butts		Male	9	Henry VIII		
+Keeper		Male	8	Henry VIII		
+Lincoln		Male	8	Henry VIII		
+Servant		Male	7	Henry VIII		
+Patience		Female	6	Henry VIII		
+Sergeant		Male	5	Henry VIII		
+Vaux		Male	4	Henry VIII		
+Scribe		Male	4	Henry VIII		
+Messenger		Male	4	Henry VIII		
+Gentleman		Male	4	Henry VIII		
+Denny		Male	4	Henry VIII		
+Crier		Male	3	Henry VIII		
+Garter		Male	3	Henry VIII		
+Secretary		Male	2	Henry VIII		
+All		Male	1	Henry VIII		
+Second And Third Gentlemen		Male	1	Henry VIII		
+Page		Male	1	Henry VIII		
+Brutus		Male	722	Julius Caesar		
+Cassius		Male	507	Julius Caesar		
+Antony		Male	329	Julius Caesar		
+Caesar		Male	151	Julius Caesar		
+Casca		Male	130	Julius Caesar		
+Portia		Female	92	Julius Caesar		
+Octavius		Male	47	Julius Caesar		
+Decius		Male	44	Julius Caesar		
+Messala		Male	38	Julius Caesar		
+Lucius		Male	33	Julius Caesar		
+Marullus		Male	31	Julius Caesar		
+Titinius		Male	31	Julius Caesar		
+Lucilius		Male	30	Julius Caesar		
+Flavius		Male	27	Julius Caesar		
+Calphurnia		Female	27	Julius Caesar		
+Second Plebeian		Male	25	Julius Caesar		
+Third Plebeian		Male	23	Julius Caesar		
+Fourth Plebeian		Male	22	Julius Caesar		
+First Plebeian		Male	21	Julius Caesar		
+Servant Of Antony		Male	20	Julius Caesar		
+Artemidorus		Male	19	Julius Caesar		
+Cinna		Male	18	Julius Caesar		
+Soothsayer		Male	18	Julius Caesar		
+Metellus		Male	17	Julius Caesar		
+Pindarus		Male	17	Julius Caesar		
+Ligarius		Male	16	Julius Caesar		
+Cobbler		Male	16	Julius Caesar		
+Cinna The Poet		Male	14	Julius Caesar		
+All		Male	12	Julius Caesar		
+Clitus		Male	10	Julius Caesar		
+Servant		Male	10	Julius Caesar		
+Cicero		Male	9	Julius Caesar		
+Cato		Male	8	Julius Caesar		
+Trebonius		Male	8	Julius Caesar		
+Strato		Male	7	Julius Caesar		
+Poet		Male	7	Julius Caesar		
+Varro		Male	4	Julius Caesar		
+First Soldier For Antony		Male	4	Julius Caesar		
+Lepidus		Male	4	Julius Caesar		
+Messenger		Male	4	Julius Caesar		
+Dardanius		Male	3	Julius Caesar		
+Ghost		Male	3	Julius Caesar		
+Volumnius		Male	3	Julius Caesar		
+Varro And Claudius		Male	2	Julius Caesar		
+Claudius		Male	2	Julius Caesar		
+Popilius		Male	2	Julius Caesar		
+Second Soldier		Male	2	Julius Caesar		
+Publius		Male	2	Julius Caesar		
+Carpenter		Male	1	Julius Caesar		
+Plebeians		Male	1	Julius Caesar		
+First Soldier		Male	1	Julius Caesar		
+Third Soldier		Male	1	Julius Caesar		
+Titinius And Messala		Male	1	Julius Caesar		
+King Edward		Male	748	King Edward III		
+Prince		Male	281	King Edward III		
+King John		Male	271	King Edward III		
+Countess		Female	214	King Edward III		
+Warwick		Male	121	King Edward III		
+Audley		Male	97	King Edward III		
+Salisbury		Male	92	King Edward III		
+Charles		Male	85	King Edward III		
+Mariner		Male	66	King Edward III		
+Artois		Male	57	King Edward III		
+Lodowick		Male	46	King Edward III		
+Derby		Male	44	King Edward III		
+Lorraine		Male	39	King Edward III		
+King David		Male	33	King Edward III		
+Philip		Male	32	King Edward III		
+Third Frenchman		Male	31	King Edward III		
+Villiers		Male	31	King Edward III		
+First Citizen		Male	21	King Edward III		
+Percy		Male	18	King Edward III		
+Copland		Male	17	King Edward III		
+Queen		Female	17	King Edward III		
+Montague		Male	13	King Edward III		
+First Frenchman		Male	13	King Edward III		
+French Herald		Male	11	King Edward III		
+Captain		Male	11	King Edward III		
+Third French Herald		Male	10	King Edward III		
+Herald		Male	9	King Edward III		
+Mountford		Male	9	King Edward III		
+First Poor Frenchman		Male	9	King Edward III		
+Woman		Female	8	King Edward III		
+Messenger		Male	8	King Edward III		
+First Wealthy Citizen		Male	7	King Edward III		
+Second French Herald		Male	6	King Edward III		
+French Captain		Male	5	King Edward III		
+Second Wealthy Citizen		Male	5	King Edward III		
+Polonian Captain		Male	4	King Edward III		
+Douglas		Male	4	King Edward III		
+Bohemia		Male	3	King Edward III		
+Second Citizen		Male	3	King Edward III		
+All Citizens		Male	2	King Edward III		
+Gobin		Male	2	King Edward III		
+All Frenchmen		Male	1	King Edward III		
+First Esquire		Male	1	King Edward III		
+Second Esquire		Male	1	King Edward III		
+Second Messenger		Male	1	King Edward III		
+Bastard		Male	523	King John		
+King John		Male	437	King John		
+Constance		Female	264	King John		
+King Philip		Male	209	King John		
+Hubert		Male	204	King John		
+Cardinal Pandulph		Male	164	King John		
+Salisbury		Male	159	King John		
+Lewis The Dauphin		Male	137	King John		
+Arthur		Male	120	King John		
+Pembroke		Male	78	King John		
+Queen Eleanor		Female	55	King John		
+Blanche		Female	42	King John		
+Chatillon		Male	41	King John		
+Melun		Male	39	King John		
+Austria		Male	36	King John		
+Prince Henry		Male	29	King John		
+Messenger		Male	22	King John		
+Robert Faulconbridge		Male	22	King John		
+Lady Faulconbridge		Female	15	King John		
+English Herald		Male	13	King John		
+French Herald		Male	12	King John		
+Bigot		Male	8	King John		
+French Messenger		Male	6	King John		
+Essex		Male	3	King John		
+Executioner		Male	2	King John		
+Gurney		Male	1	King John		
+Pembroke And Bigot		Male	1	King John		
+Peter		Male	1	King John		
+Lear		Male	749	King Lear		
+Edgar		Male	392	King Lear		
+Kent		Male	368	King Lear		
+Gloucester		Male	338	King Lear		
+Edmund		Male	307	King Lear	yes	
+Fool		Male	227	King Lear		fool
+Gonerill		Female	199	King Lear		
+Regan		Female	190	King Lear	yes	
+Albany		Male	159	King Lear		
+Cordelia		Female	117	King Lear		
+Cornwall		Male	109	King Lear	yes	
+Gentleman		Male	82	King Lear		
+Oswald		Male	78	King Lear		
+France		Male	32	King Lear		
+Messenger		Male	20	King Lear		
+Doctor		Male	18	King Lear		
+Knight		Male	16	King Lear		
+Old Man		Male	12	King Lear		
+Burgundy		Male	12	King Lear		
+Herald		Male	10	King Lear		
+First Servant		Male	10	King Lear		
+Curan		Male	9	King Lear		
+Second Servant		Male	5	King Lear		
+Third Servant		Male	5	King Lear		
+Captain		Male	3	King Lear		
+Albany And Cornwall		Male	1	King Lear		
+Second Officer		Male	1	King Lear		
+Berowne		Male	592	Love's Labour's Lost		
+King		Male	311	Love's Labour's Lost		
+Princess		Female	288	Love's Labour's Lost		
+Armado		Male	235	Love's Labour's Lost		
+Boyet		Male	227	Love's Labour's Lost		
+Costard		Male	190	Love's Labour's Lost		
+Rosaline		Female	165	Love's Labour's Lost		
+Holofernes		Male	164	Love's Labour's Lost		
+Mote		Male	154	Love's Labour's Lost		
+Dumaine		Male	89	Love's Labour's Lost		
+Longaville		Male	72	Love's Labour's Lost		
+Nathaniel		Male	55	Love's Labour's Lost		
+Katharine		Female	46	Love's Labour's Lost		
+Maria		Female	42	Love's Labour's Lost		
+Dull		Male	30	Love's Labour's Lost		
+Hiems		Male	18	Love's Labour's Lost		
+Jaquenetta		Female	18	Love's Labour's Lost		
+Ver		Male	18	Love's Labour's Lost		
+Costard As Pompey		Male	9	Love's Labour's Lost		fool
+Holofernes As Presenter		Male	8	Love's Labour's Lost		
+Forester		Male	5	Love's Labour's Lost		
+Armado As Hector		Male	4	Love's Labour's Lost		
+Marcade		Male	4	Love's Labour's Lost		
+Nathaniel As Alexander		Male	4	Love's Labour's Lost		
+First Lord		Male	3	Love's Labour's Lost		
+Holofernes As Judas		Male	1	Love's Labour's Lost		
+Macbeth		Male	715	Macbeth	yes	
+Lady		Female	259	Macbeth		
+Malcolm		Male	211	Macbeth		
+Macduff		Male	180	Macbeth		
+Ross		Male	135	Macbeth		
+Banquo		Male	113	Macbeth		
+King		Male	70	Macbeth		
+Lennox		Male	70	Macbeth		
+First Witch		Female	61	Macbeth		
+English Doctor		Male	48	Macbeth		
+Wife		Female	42	Macbeth		
+Hecat		Female	39	Macbeth		
+Captain		Male	36	Macbeth		
+Porter		Male	33	Macbeth		fool
+Seyward		Male	30	Macbeth		
+Third Witch		Female	27	Macbeth		
+Second Witch		Female	26	Macbeth		
+First Murderer		Male	25	Macbeth		
+Gentlewoman		Female	24	Macbeth		
+Angus		Male	21	Macbeth		
+Lord		Male	21	Macbeth		
+Son		Male	20	Macbeth		
+All Witches		Female	19	Macbeth		
+Second Murderer		Male	15	Macbeth		
+Messenger		Male	14	Macbeth		
+Menteth		Male	12	Macbeth		
+Old Man		Male	11	Macbeth		
+Cathness		Male	11	Macbeth		
+Messenger To Wife		Male	9	Macbeth		
+Third Murderer		Male	8	Macbeth		
+Donalbain		Male	8	Macbeth		
+Young Seyward		Male	7	Macbeth		
+Servant		Male	6	Macbeth		
+Seyton		Male	5	Macbeth		
+Third Apparition		Male	5	Macbeth		
+Second Apparition		Male	4	Macbeth		
+Murderer		Male	4	Macbeth		
+Murderers		Male	3	Macbeth		
+All Lords		Male	3	Macbeth		
+Lords		Male	3	Macbeth		
+First Apparition		Male	2	Macbeth		
+Fleance		Male	2	Macbeth		
+All		Male	2	Macbeth		
+Macbeth And Lennox		Male	1	Macbeth		
+Soldiers		Male	1	Macbeth		
+Duke		Male	847	Measure for Measure		
+Isabella		Female	424	Measure for Measure		
+Angelo		Male	320	Measure for Measure		
+Lucio		Male	296	Measure for Measure		
+Escalus		Male	189	Measure for Measure		
+Provost		Male	166	Measure for Measure		
+Pompey		Male	156	Measure for Measure		fool
+Claudio		Male	113	Measure for Measure		
+Elbow		Male	71	Measure for Measure		
+Mariana		Female	68	Measure for Measure		
+Mistress Overdone		Female	36	Measure for Measure		
+Friar Peter		Male	36	Measure for Measure		
+First Gentleman		Male	28	Measure for Measure		
+Abhorson		Male	21	Measure for Measure		
+Barnardine		Male	16	Measure for Measure		
+Froth		Male	11	Measure for Measure		
+Second Gentleman		Male	11	Measure for Measure		
+Juliet		Female	10	Measure for Measure		
+Francisca		Female	9	Measure for Measure		
+Friar Thomas		Male	6	Measure for Measure		
+Boy		Male	6	Measure for Measure		
+Servant		Male	5	Measure for Measure		
+Messenger		Male	4	Measure for Measure		
+Justice		Male	3	Measure for Measure		
+Angelo And Escalus		Male	1	Measure for Measure		
+Benedick		Male	430	Much Ado About Nothing		
+Leonato		Male	344	Much Ado About Nothing		
+Don Pedro		Male	323	Much Ado About Nothing		
+Claudio		Male	282	Much Ado About Nothing		
+Beatrice		Female	279	Much Ado About Nothing		
+Dogberry		Male	176	Much Ado About Nothing		
+Hero		Female	132	Much Ado About Nothing		
+Borachio		Male	123	Much Ado About Nothing		
+Don John		Male	109	Much Ado About Nothing		
+Friar		Male	82	Much Ado About Nothing		
+Margaret		Female	68	Much Ado About Nothing		
+Antonio		Male	55	Much Ado About Nothing		
+Ursula		Female	47	Much Ado About Nothing		
+Balthasar		Male	42	Much Ado About Nothing		
+Conrade		Male	36	Much Ado About Nothing		
+Messenger		Male	32	Much Ado About Nothing		
+Verges		Male	28	Much Ado About Nothing		
+First Watchman		Male	21	Much Ado About Nothing		
+Second Watchman		Male	20	Much Ado About Nothing		
+Sexton		Male	15	Much Ado About Nothing		
+Boy		Male	2	Much Ado About Nothing		
+A Lord		Male	1	Much Ado About Nothing		
+Conrade And Borachio		Male	1	Much Ado About Nothing		
+Iago		Male	1088	Othello	yes	
+Othello		Male	880	Othello		
+Desdemona		Female	391	Othello		
+Cassio		Male	274	Othello		
+Emilia		Female	243	Othello		
+Brabantio		Male	139	Othello		
+Roderigo		Male	119	Othello		
+Lodovico		Male	77	Othello		
+Duke		Male	71	Othello		
+Montano		Male	62	Othello		
+Bianca		Female	35	Othello		
+Gratiano		Male	30	Othello		
+Clown		Male	28	Othello		
+First Senator		Male	25	Othello		
+Third Gentleman		Male	17	Othello		
+Second Gentleman		Male	12	Othello		
+Herald		Male	11	Othello		
+Messenger		Male	9	Othello		
+Second Senator		Male	5	Othello		
+First Musician		Male	5	Othello		
+First Officer		Male	5	Othello		
+Sailor		Male	4	Othello		
+Gentleman		Male	3	Othello		
+First Gentleman		Male	3	Othello		
+Fourth Gentleman		Male	2	Othello		
+Gentlemen		Male	1	Othello		
+Senators		Male	1	Othello		
+All		Male	1	Othello		
+All Lords		Male	1	Othello		
+Pericles		Male	602	Pericles		
+Gower		Male	307	Pericles		
+Marina		Female	190	Pericles		
+Simonides		Male	157	Pericles		
+Helicanus		Male	121	Pericles		
+Cleon		Male	111	Pericles		
+Cerimon		Male	110	Pericles		
+Lysimachus		Male	107	Pericles		
+Bawd		Female	104	Pericles		
+Dionyza		Female	88	Pericles		
+Boult		Male	82	Pericles		
+Thaisa		Female	80	Pericles		
+Antiochus		Male	68	Pericles		
+First Fisherman		Male	41	Pericles		
+Second Fisherman		Male	31	Pericles		
+Pandar		Male	28	Pericles		
+Thaliard		Male	26	Pericles		
+Leonine		Male	24	Pericles		
+Third Fisherman		Male	18	Pericles		
+First Lord		Male	18	Pericles		
+First Gentleman		Male	17	Pericles		
+Second Gentleman		Male	15	Pericles		
+Lychorida		Female	11	Pericles		
+Diana		Female	10	Pericles		
+First Sailor		Male	9	Pericles		
+Second Lord		Male	9	Pericles		
+First Servant		Male	8	Pericles		
+Lord		Male	7	Pericles		
+Sailor Of Tyre		Male	6	Pericles		
+Second Sailor		Male	6	Pericles		
+First Lord Of Pentapolis		Male	5	Pericles		
+First Gentleman Of Mytilene		Male	5	Pericles		
+First Knight		Male	4	Pericles		
+Second Gentleman Of Mytilene		Male	4	Pericles		
+Sailor Of Mytilene		Male	3	Pericles		
+Lord Of Mytilene		Male	3	Pericles		
+Knights		Male	3	Pericles		
+First Pirate		Male	2	Pericles		
+Escanes		Male	2	Pericles		
+Daughter		Female	2	Pericles		
+Third Pirate		Male	2	Pericles		
+Third Lord		Male	2	Pericles		
+Second Lord Of Pentapolis		Male	2	Pericles		
+All		Male	2	Pericles		
+All Lords		Male	1	Pericles		
+Second Pirate		Male	1	Pericles		
+Second Knight		Male	1	Pericles		
+Marshal		Male	1	Pericles		
+Messenger		Male	1	Pericles		
+Pericles And Thaisa		Male	1	Pericles		
+Philemon		Male	1	Pericles		
+Third Lord Of Pentapolis		Male	1	Pericles		
+Third Knight		Male	1	Pericles		
+First Gentleman Of Tyre		Male	1	Pericles		
+King Richard		Male	463	Richard II		
+Bolingbroke		Male	324	Richard II		
+Richard		Male	293	Richard II		
+York		Male	286	Richard II		
+John Of Gaunt		Male	192	Richard II		
+Northumberland		Male	143	Richard II		
+Mowbray		Male	135	Richard II		
+Queen Isabel		Female	115	Richard II		
+Duchess Of York		Female	93	Richard II		
+King Henry		Male	88	Richard II		
+Aumerle		Male	85	Richard II		
+Bishop Of Carlisle		Male	63	Richard II		
+Duchess Of Gloucester		Female	58	Richard II		
+Gardener		Male	52	Richard II		
+Percy		Male	46	Richard II		
+Bushy		Male	39	Richard II		
+Scroop		Male	37	Richard II		
+Green		Male	31	Richard II		
+Fitzwater		Male	27	Richard II		
+Lord Marshal		Male	25	Richard II		
+Bagot		Male	23	Richard II		
+Ross		Male	22	Richard II		
+Exton		Male	21	Richard II		
+Salisbury		Male	20	Richard II		
+Captain		Male	15	Richard II		
+Groom		Male	12	Richard II		
+Willoughby		Male	12	Richard II		
+Surrey		Male	10	Richard II		
+Abbot Of Westminster		Male	10	Richard II		
+First Man		Male	9	Richard II		
+Berkeley		Male	8	Richard II		
+Second Herald		Male	7	Richard II		
+Another Lord		Male	6	Richard II		
+First Herald		Male	6	Richard II		
+Keeper		Male	5	Richard II		
+Servingman		Male	5	Richard II		
+Second Lady		Female	3	Richard II		
+First Lady		Female	3	Richard II		
+Man		Male	2	Richard II		
+All		Male	1	Richard II		
+Second Man		Male	1	Richard II		
+Richard		Male	685	Richard III	yes	
+King Richard		Male	466	Richard III		
+Buckingham		Male	374	Richard III		
+Queen Elizabeth		Female	272	Richard III		
+Queen Margaret		Female	218	Richard III		
+Clarence		Male	163	Richard III		
+Anne		Female	157	Richard III		
+Duchess Of York		Female	141	Richard III		
+Hastings		Male	140	Richard III		
+Richmond		Male	137	Richard III		
+Derby		Male	108	Richard III		
+King Edward		Male	65	Richard III		
+First Murderer		Male	65	Richard III		
+Second Murderer		Male	61	Richard III		
+Catesby		Male	58	Richard III		
+Rivers		Male	48	Richard III		
+Prince Edward		Male	43	Richard III		
+York		Male	39	Richard III		
+Tyrrel		Male	37	Richard III		
+Ratcliffe		Male	32	Richard III		
+Brakenbury		Male	32	Richard III		
+Third Citizen		Male	28	Richard III		
+Messenger		Male	25	Richard III		
+Boy		Male	19	Richard III		
+Dorset		Male	15	Richard III		
+Lord Mayor		Male	14	Richard III		
+Scrivener		Male	14	Richard III		
+Second Citizen		Male	13	Richard III		
+Grey		Male	12	Richard III		
+Archbishop		Male	12	Richard III		
+Fourth Messenger		Male	10	Richard III		
+Ghost Of Buckingham		Male	10	Richard III		
+Norfolk		Male	10	Richard III		
+Cardinal Bourchier		Male	9	Richard III		
+Blunt		Male	8	Richard III		
+First Citizen		Male	8	Richard III		
+Ghost Of Henry Vi		Male	8	Richard III		
+Keeper		Male	8	Richard III		
+Ghost Of Anne		Female	8	Richard III		
+Ghosts		Male	8	Richard III		
+Urswick		Male	8	Richard III		
+Third Messenger		Male	7	Richard III		
+Ghost Of Clarence		Male	7	Richard III		
+Ghost Of Prince Edward		Male	6	Richard III		
+Page		Male	6	Richard III		
+Bishop Of Ely		Male	6	Richard III		
+First Messenger		Male	5	Richard III		
+Girl		Female	5	Richard III		
+Ghost Of Hastings		Male	5	Richard III		
+Children		Male	3	Richard III		
+Lords		Male	3	Richard III		
+Lovel		Male	3	Richard III		
+Second Messenger		Male	3	Richard III		
+Pursuivant		Male	3	Richard III		
+Priest		Male	2	Richard III		
+Oxford		Male	2	Richard III		
+Ghost Of Rivers		Male	2	Richard III		
+Ghost Of Vaughan		Male	2	Richard III		
+Gentleman		Male	2	Richard III		
+All Ghosts		Male	2	Richard III		
+Sheriff		Male	2	Richard III		
+Surrey		Male	1	Richard III		
+Vaughan		Male	1	Richard III		
+First And Second Murderer		Male	1	Richard III		
+All		Male	1	Richard III		
+Ghost Of Grey		Male	1	Richard III		
+Herbert		Male	1	Richard III		
+Queen Elizabeth And Duchess Of York		Female	1	Richard III		
+Romeo		Male	617	Romeo and Juliet		
+Juliet		Female	542	Romeo and Juliet		
+Friar		Male	332	Romeo and Juliet		
+Nurse		Female	277	Romeo and Juliet		
+Capulet		Male	272	Romeo and Juliet		
+Mercutio		Male	259	Romeo and Juliet		
+Benvolio		Male	161	Romeo and Juliet		
+Lady Capulet		Female	115	Romeo and Juliet		
+Prince		Male	75	Romeo and Juliet		
+Paris		Male	69	Romeo and Juliet		
+Montague		Male	41	Romeo and Juliet		
+Tybalt		Male	36	Romeo and Juliet		
+Sampson		Male	35	Romeo and Juliet		
+Peter		Male	33	Romeo and Juliet		
+Balthasar		Male	32	Romeo and Juliet		
+Chorus		Male	28	Romeo and Juliet		
+Gregory		Male	22	Romeo and Juliet		
+Servant		Male	22	Romeo and Juliet		
+First Watchman		Male	18	Romeo and Juliet		
+Laurence		Male	14	Romeo and Juliet		
+First Musician		Male	12	Romeo and Juliet		
+John		Male	12	Romeo and Juliet		
+First Servingman		Male	10	Romeo and Juliet		
+Page		Male	9	Romeo and Juliet		
+Apothecary		Male	7	Romeo and Juliet		
+Second Musician		Male	6	Romeo and Juliet		
+Servingman		Male	6	Romeo and Juliet		
+Second Servingman		Male	5	Romeo and Juliet		
+Citizens		Male	5	Romeo and Juliet		
+Abram		Male	5	Romeo and Juliet		
+Third Watchman		Male	3	Romeo and Juliet		
+Cousin Capulet		Male	3	Romeo and Juliet		
+Fourth Servingman		Male	3	Romeo and Juliet		
+Lady Montague		Female	3	Romeo and Juliet		
+Citizen		Male	2	Romeo and Juliet		
+A Follower		Male	1	Romeo and Juliet		
+Fiddler		Male	1	Romeo and Juliet		
+Friar John		Male	1	Romeo and Juliet		
+Second Watchman		Male	1	Romeo and Juliet		
+Third Musician		Male	1	Romeo and Juliet		
+Third Servingman		Male	1	Romeo and Juliet		
+Watchman		Male	1	Romeo and Juliet		
+Antipholus Of Syracuse		Male	291	The Comedy of Errors		
+Adriana		Female	263	The Comedy of Errors		
+Dromio Of Syracuse		Male	244	The Comedy of Errors		
+Antipholus Of Ephesus		Male	212	The Comedy of Errors		
+Dromio Of Ephesus		Male	154	The Comedy of Errors		
+Egeon		Male	143	The Comedy of Errors		
+Luciana		Female	96	The Comedy of Errors		
+Duke		Male	91	The Comedy of Errors		
+Angelo		Male	77	The Comedy of Errors	yes	
+Abbess		Female	73	The Comedy of Errors		
+Courtesan		Female	35	The Comedy of Errors		
+Second Merchant		Male	34	The Comedy of Errors		
+Balthasar		Male	26	The Comedy of Errors		
+Messenger		Male	15	The Comedy of Errors		
+First Merchant		Male	15	The Comedy of Errors		
+Officer		Male	14	The Comedy of Errors		
+Pinch		Male	12	The Comedy of Errors		
+Luce		Female	8	The Comedy of Errors		
+Gaoler		Male	1	The Comedy of Errors		
+Portia		Female	574	The Merchant of Venice		
+Shylock		Male	352	The Merchant of Venice		
+Bassanio		Male	336	The Merchant of Venice		
+Antonio		Male	188	The Merchant of Venice		
+Lorenzo		Male	180	The Merchant of Venice		
+Gratiano		Male	177	The Merchant of Venice		
+Launcelot		Male	163	The Merchant of Venice		
+Salerio		Male	115	The Merchant of Venice		
+Morocco		Male	103	The Merchant of Venice		
+Nerissa		Female	88	The Merchant of Venice		
+Jessica		Female	86	The Merchant of Venice		
+Solanio		Male	70	The Merchant of Venice		
+Arragon		Male	66	The Merchant of Venice		
+Duke		Male	57	The Merchant of Venice		
+Gobbo		Male	38	The Merchant of Venice		fool
+Tubal		Male	15	The Merchant of Venice		
+Clerk		Male	14	The Merchant of Venice		
+Messenger		Male	11	The Merchant of Venice		
+Singer		Male	9	The Merchant of Venice		
+Stephano		Male	8	The Merchant of Venice		
+Servingman		Male	4	The Merchant of Venice		
+Leonardo		Male	2	The Merchant of Venice		
+Man		Male	2	The Merchant of Venice		
+All		Male	1	The Merchant of Venice		
+Balthasar		Male	1	The Merchant of Venice		
+Falstaff		Male	438	The Merry Wives of Windsor		
+Mistress Page		Female	328	The Merry Wives of Windsor		
+Ford		Male	300	The Merry Wives of Windsor		
+Mistress Quickly		Female	236	The Merry Wives of Windsor		
+Evans		Male	217	The Merry Wives of Windsor		
+Mistress Ford		Female	192	The Merry Wives of Windsor		
+Page		Male	149	The Merry Wives of Windsor		
+Slender		Male	143	The Merry Wives of Windsor		
+Shallow		Male	125	The Merry Wives of Windsor		
+Host		Male	110	The Merry Wives of Windsor		
+Caius		Male	97	The Merry Wives of Windsor		
+Fenton		Male	96	The Merry Wives of Windsor		
+Pistol		Male	51	The Merry Wives of Windsor		
+Simple		Male	49	The Merry Wives of Windsor		
+Mistress Quickly As Queen Of Fairies		Female	44	The Merry Wives of Windsor		
+Nym		Male	29	The Merry Wives of Windsor		
+Anne		Female	28	The Merry Wives of Windsor		
+Bardolph		Male	25	The Merry Wives of Windsor		
+Robin		Male	13	The Merry Wives of Windsor		
+William		Male	12	The Merry Wives of Windsor		
+Rugby		Male	11	The Merry Wives of Windsor		
+Evans As A Satyr		Male	11	The Merry Wives of Windsor		
+Pistol As Hobgoblin		Male	7	The Merry Wives of Windsor		
+"Page, Shallow, And Slender"		Male	2	The Merry Wives of Windsor		
+John		Male	2	The Merry Wives of Windsor		
+All		Male	2	The Merry Wives of Windsor		
+John And Robert		Male	1	The Merry Wives of Windsor		
+Mistress Ford And Mistress Page		Female	1	The Merry Wives of Windsor		
+Robert		Male	1	The Merry Wives of Windsor		
+Petruchio		Male	589	The Taming of the Shrew		
+Tranio		Male	291	The Taming of the Shrew		
+Katherina		Female	221	The Taming of the Shrew		
+Hortensio		Male	208	The Taming of the Shrew		
+Lucentio		Male	189	The Taming of the Shrew		
+Baptista		Male	174	The Taming of the Shrew		
+Grumio		Male	168	The Taming of the Shrew		fool
+Gremio		Male	167	The Taming of the Shrew		
+Lord		Male	146	The Taming of the Shrew		
+Biondello		Male	106	The Taming of the Shrew		
+Bianca		Female	69	The Taming of the Shrew		
+Sly		Male	61	The Taming of the Shrew		
+Pedant		Male	51	The Taming of the Shrew		
+Vincentio		Male	48	The Taming of the Shrew		
+Curtis		Male	28	The Taming of the Shrew		
+Tailor		Male	16	The Taming of the Shrew		
+Page		Male	16	The Taming of the Shrew		
+First Servingman		Male	15	The Taming of the Shrew		
+Third Servingman		Male	12	The Taming of the Shrew		
+Second Servingman		Male	12	The Taming of the Shrew		
+Widow		Female	11	The Taming of the Shrew		
+First Huntsman		Male	9	The Taming of the Shrew		
+First Player		Male	4	The Taming of the Shrew		
+Nathaniel		Male	4	The Taming of the Shrew		
+Hostess		Female	4	The Taming of the Shrew		
+Servant		Male	3	The Taming of the Shrew		
+Second Huntsman		Male	3	The Taming of the Shrew		
+Peter		Male	2	The Taming of the Shrew		
+Nicholas		Male	1	The Taming of the Shrew		
+Joseph		Male	1	The Taming of the Shrew		
+First Servingman Of Petruchio		Male	1	The Taming of the Shrew		
+Gremio And Tranio		Male	1	The Taming of the Shrew		fool
+Grumio And Biondello		Male	1	The Taming of the Shrew		fool
+Haberdasher		Male	1	The Taming of the Shrew		
+Philip		Male	1	The Taming of the Shrew		
+Players		Male	1	The Taming of the Shrew		
+Servingman		Male	1	The Taming of the Shrew		
+All Servants		Male	1	The Taming of the Shrew		
+All Servingmen		Male	1	The Taming of the Shrew		
+Prospero		Male	656	The Tempest		
+Ariel		Male	196	The Tempest		
+Caliban		Male	178	The Tempest		
+Stephano		Male	168	The Tempest		
+Gonzalo		Male	161	The Tempest		
+Miranda		Female	153	The Tempest		
+Antonio		Male	151	The Tempest		
+Ferdinand		Male	139	The Tempest		
+Sebastian		Male	125	The Tempest		
+Alonso		Male	109	The Tempest		
+Trinculo		Male	102	The Tempest		fool
+Boatswain		Male	46	The Tempest		
+Iris		Female	41	The Tempest		
+Ceres		Female	24	The Tempest		
+Adrian		Male	12	The Tempest		
+Francisco		Male	11	The Tempest		
+Juno		Female	7	The Tempest		
+Master		Male	3	The Tempest		
+Mariners		Male	1	The Tempest		
+Ferdinand And Miranda		Male	1	The Tempest		
+Proteus		Male	446	The Two Gentlemen of Verona		
+Valentine		Male	391	The Two Gentlemen of Verona		
+Julia		Female	322	The Two Gentlemen of Verona		
+Launce		Male	201	The Two Gentlemen of Verona		fool
+Duke		Male	200	The Two Gentlemen of Verona		
+Speed		Male	196	The Two Gentlemen of Verona		fool
+Silvia		Female	158	The Two Gentlemen of Verona		
+Lucetta		Female	72	The Two Gentlemen of Verona		
+Thurio		Male	55	The Two Gentlemen of Verona		
+Panthino		Male	44	The Two Gentlemen of Verona		
+Host		Male	38	The Two Gentlemen of Verona		
+Antonio		Male	35	The Two Gentlemen of Verona		
+Eglamour		Male	28	The Two Gentlemen of Verona		
+Third Outlaw		Male	25	The Two Gentlemen of Verona		
+First Outlaw		Male	21	The Two Gentlemen of Verona		
+Second Outlaw		Male	16	The Two Gentlemen of Verona		
+Servant		Male	1	The Two Gentlemen of Verona		
+Outlaws		Male	1	The Two Gentlemen of Verona		
+Palamon		Male	593	The Two Noble Kinsmen		
+Arcite		Male	521	The Two Noble Kinsmen		
+Emilia		Female	374	The Two Noble Kinsmen		
+Theseus		Male	328	The Two Noble Kinsmen		
+Daughter		Female	324	The Two Noble Kinsmen		
+Pirithous		Male	124	The Two Noble Kinsmen		
+Gaoler		Male	118	The Two Noble Kinsmen		
+Schoolmaster		Male	107	The Two Noble Kinsmen		
+Wooer		Male	105	The Two Noble Kinsmen		
+Hippolyta		Female	102	The Two Noble Kinsmen		
+Doctor		Male	88	The Two Noble Kinsmen		
+First Queen		Female	63	The Two Noble Kinsmen		
+Speaker		Male	52	The Two Noble Kinsmen		
+Messenger		Male	49	The Two Noble Kinsmen		
+Second Queen		Female	39	The Two Noble Kinsmen		
+Third Queen		Female	37	The Two Noble Kinsmen		
+Second Countryman		Male	31	The Two Noble Kinsmen		
+First Friend		Male	27	The Two Noble Kinsmen		
+Third Countryman		Male	25	The Two Noble Kinsmen		
+Boy		Male	24	The Two Noble Kinsmen		
+Second Friend		Male	22	The Two Noble Kinsmen		
+Fourth Countryman		Male	18	The Two Noble Kinsmen		
+First Countryman		Male	15	The Two Noble Kinsmen		
+Woman		Female	14	The Two Noble Kinsmen		
+Servant		Male	13	The Two Noble Kinsmen		
+Valerius		Male	12	The Two Noble Kinsmen		
+Brother		Male	11	The Two Noble Kinsmen		
+Herald		Male	9	The Two Noble Kinsmen		
+First Knight		Male	7	The Two Noble Kinsmen		
+Second Knight		Male	5	The Two Noble Kinsmen		
+Gentleman		Male	4	The Two Noble Kinsmen		
+All Queens		Female	3	The Two Noble Kinsmen		
+Palamon And Arcite		Male	2	The Two Noble Kinsmen		
+Nell		Female	1	The Two Noble Kinsmen		
+Third Knight		Male	1	The Two Noble Kinsmen		
+Taborer		Male	1	The Two Noble Kinsmen		
+All The Others		Male	1	The Two Noble Kinsmen		
+All Three Knights		Male	1	The Two Noble Kinsmen		
+Bavian		Male	1	The Two Noble Kinsmen		
+Leontes		Male	686	The Winter's Tale		
+Paulina		Female	332	The Winter's Tale		
+Camillo		Male	298	The Winter's Tale		
+Autolycus		Male	291	The Winter's Tale		fool
+Polixenes		Male	272	The Winter's Tale		
+Hermione		Female	211	The Winter's Tale		
+Florizel		Male	205	The Winter's Tale		
+Clown		Male	183	The Winter's Tale		
+Shepherd		Male	137	The Winter's Tale		
+Perdita		Female	126	The Winter's Tale		
+Antigonus		Male	111	The Winter's Tale		
+Third Gentleman		Male	63	The Winter's Tale		
+Lord		Male	60	The Winter's Tale		
+Shepherd'S Servant		Male	35	The Winter's Tale		
+Time		Male	32	The Winter's Tale		
+First Gentleman		Male	28	The Winter's Tale		
+Dion		Male	27	The Winter's Tale		
+Officer		Male	25	The Winter's Tale		
+Cleomenes		Male	23	The Winter's Tale		
+Mamillius		Male	22	The Winter's Tale		
+Mopsa		Female	21	The Winter's Tale		
+Archidamus		Male	21	The Winter's Tale		
+Emilia		Female	20	The Winter's Tale		
+Gentleman		Male	18	The Winter's Tale		
+Second Gentleman		Male	16	The Winter's Tale		
+Servant		Male	15	The Winter's Tale		
+Gaoler		Male	13	The Winter's Tale		
+Dorcas		Female	13	The Winter's Tale		
+Mariner		Male	11	The Winter's Tale		
+First Lady		Female	9	The Winter's Tale		
+Second Lady		Female	4	The Winter's Tale		
+Lords		Male	3	The Winter's Tale		
+Cleomenes And Dion		Male	1	The Winter's Tale		
+Timon		Male	850	Timon of Athens		
+Apemantus		Male	249	Timon of Athens		
+Flavius		Male	205	Timon of Athens		
+Alcibiades		Male	159	Timon of Athens		
+Poet		Male	104	Timon of Athens		
+First Senator		Male	89	Timon of Athens		
+Lucius		Male	66	Timon of Athens		
+Painter		Male	65	Timon of Athens		
+Second Senator		Male	61	Timon of Athens		
+Lucullus		Male	59	Timon of Athens		
+Sempronius		Male	36	Timon of Athens		
+Senator		Male	35	Timon of Athens		
+Lucius'S Servant		Male	32	Timon of Athens		
+First Stranger		Male	31	Timon of Athens		
+Flaminius		Male	29	Timon of Athens		
+Old Athenian		Male	29	Timon of Athens		
+Servant		Male	27	Timon of Athens		
+Fool		Male	22	Timon of Athens		fool
+First Lord		Male	21	Timon of Athens		
+Caphis		Male	20	Timon of Athens		
+Messenger		Male	20	Timon of Athens		
+Servilius		Male	18	Timon of Athens		
+Second Lord		Male	17	Timon of Athens		
+Titus		Male	15	Timon of Athens		
+Soldier		Male	15	Timon of Athens		
+Jeweller		Male	12	Timon of Athens		
+Hortensius		Male	11	Timon of Athens		
+Merchant		Male	11	Timon of Athens		
+First Bandit		Male	11	Timon of Athens		
+Second Servant		Male	11	Timon of Athens		
+Varro'S Servant		Male	11	Timon of Athens		
+Ventidius		Male	11	Timon of Athens		
+Third Servant		Male	10	Timon of Athens		
+All The Servants		Male	8	Timon of Athens		
+First Varro'S Servant		Male	8	Timon of Athens		
+First Servant		Male	8	Timon of Athens		
+Isidore'S Servant		Male	8	Timon of Athens		
+Page		Male	7	Timon of Athens		
+Third Bandit		Male	7	Timon of Athens		
+Poet And Painter		Male	7	Timon of Athens		
+Second Stranger		Male	7	Timon of Athens		
+Second Varro'S Servant		Male	6	Timon of Athens		
+Second Bandit		Male	6	Timon of Athens		
+Philotus		Male	6	Timon of Athens		
+Cupid		Male	6	Timon of Athens		
+Lucilius		Male	5	Timon of Athens		
+Phrynia And Timandra		Female	4	Timon of Athens		
+Third Lord		Male	4	Timon of Athens		
+Third Senator		Male	4	Timon of Athens		
+Timandra		Female	4	Timon of Athens		
+All The Bandits		Male	3	Timon of Athens		
+All The Ladies		Female	1	Timon of Athens		
+All The Lords		Male	1	Timon of Athens		
+All		Male	1	Timon of Athens		
+Phrynia		Female	1	Timon of Athens		
+Others		Male	1	Timon of Athens		
+Lucullus And Lucius		Male	1	Timon of Athens		
+First Lady		Female	1	Timon of Athens		
+Both Senators		Male	1	Timon of Athens		
+Both Varro'S Servants		Male	1	Timon of Athens		
+Fourth Senator		Male	1	Timon of Athens		
+Third Stranger		Male	1	Timon of Athens		
+Some		Male	1	Timon of Athens		
+Servants		Male	1	Timon of Athens		
+Titus		Male	711	Titus Andronicus		
+Aaron		Male	357	Titus Andronicus	yes	
+Marcus		Male	329	Titus Andronicus		
+Tamora		Female	257	Titus Andronicus	yes	
+Saturninus		Male	210	Titus Andronicus		
+Lucius		Male	179	Titus Andronicus		
+Demetrius		Male	94	Titus Andronicus		
+Bassianus		Male	63	Titus Andronicus		
+Lavinia		Female	59	Titus Andronicus		
+Chiron		Male	53	Titus Andronicus		
+Young Lucius		Male	44	Titus Andronicus		
+Martius		Male	32	Titus Andronicus		
+Quintus		Male	25	Titus Andronicus		
+Clown		Male	23	Titus Andronicus		
+Second Goth		Male	20	Titus Andronicus		
+Nurse		Female	19	Titus Andronicus		
+Aemilius		Male	18	Titus Andronicus		
+Publius		Male	14	Titus Andronicus		
+First Goth		Male	8	Titus Andronicus		
+Messenger		Male	7	Titus Andronicus		
+Captain		Male	6	Titus Andronicus		
+A Goth		Male	5	Titus Andronicus		
+Mutius		Male	4	Titus Andronicus		
+Tribunes		Male	3	Titus Andronicus		
+A Roman		Male	3	Titus Andronicus		
+All		Male	2	Titus Andronicus		
+Romans		Male	2	Titus Andronicus		
+Martius And Quintus		Male	1	Titus Andronicus		
+All The Goths		Male	1	Titus Andronicus		
+Troilus		Male	537	Troilus and Cressida		
+Ulysses		Male	485	Troilus and Cressida		
+Pandarus		Male	414	Troilus and Cressida		
+Cressida		Female	301	Troilus and Cressida		
+Thersites		Male	283	Troilus and Cressida		fool
+Hector		Male	213	Troilus and Cressida		
+Agamemnon		Male	195	Troilus and Cressida		
+Achilles		Male	191	Troilus and Cressida		
+Nestor		Male	157	Troilus and Cressida		
+Aeneas		Male	143	Troilus and Cressida		
+Diomedes		Male	104	Troilus and Cressida		
+Paris		Male	97	Troilus and Cressida		
+Ajax		Male	86	Troilus and Cressida		
+Patroclus		Male	69	Troilus and Cressida		
+Cassandra		Female	37	Troilus and Cressida		
+Alexander		Male	34	Troilus and Cressida		
+Calchas		Male	31	Troilus and Cressida		
+Prologue		Male	31	Troilus and Cressida		
+Helen		Female	28	Troilus and Cressida		
+Priam		Male	20	Troilus and Cressida		
+Servant		Male	20	Troilus and Cressida		
+Andromache		Female	15	Troilus and Cressida		
+Menelaus		Male	13	Troilus and Cressida		
+Helenus		Female	4	Troilus and Cressida		
+Margarelon		Male	3	Troilus and Cressida		
+Deiphobus		Male	2	Troilus and Cressida		
+Boy		Male	2	Troilus and Cressida		
+All		Male	2	Troilus and Cressida		
+Soldiers		Male	2	Troilus and Cressida		
+Man		Male	1	Troilus and Cressida		
+Myrmidons		Male	1	Troilus and Cressida		
+Sir Toby		Male	343	Twelfth Night		
+Viola		Female	335	Twelfth Night		
+Olivia		Female	314	Twelfth Night		
+Feste		Male	306	Twelfth Night		fool
+Malvolio		Male	281	Twelfth Night		
+Orsino		Male	220	Twelfth Night		
+Sir Andrew		Male	162	Twelfth Night		
+Maria		Female	149	Twelfth Night		
+Sebastian		Male	124	Twelfth Night		
+Fabian		Male	113	Twelfth Night		
+Antonio		Male	106	Twelfth Night		
+Captain		Male	32	Twelfth Night		
+Valentine		Male	14	Twelfth Night		
+First Officer		Male	12	Twelfth Night		
+Priest		Male	8	Twelfth Night		
+Curio		Male	7	Twelfth Night		
+Second Officer		Male	4	Twelfth Night		
+Servant		Male	3	Twelfth Night		
